@@ -1,4 +1,4 @@
 # new-demo
 This is my first git Repository. 
 <br>
-Author - Prathvi Tandel 
+Author - Prathvi Tandel (student)
